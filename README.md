@@ -2,11 +2,13 @@
 
 
 
-**Materia**: Computación Aplicada 
+**Materia**: Computación Aplicada
 
-**Grupo**: Grupo 14 
+**Grupo**: Grupo 14
 
-**Integrantes**: Catalina Longhi, Santiago Sequin, Josefina Grijalba y Tomas Aldao 
+**Integrantes**: Catalina Longhi, Santiago Sequin, Josefina Grijalba y Tomas Aldao
 
 
+
+!\[Diagrama topológico](diagramatopologico.png)
 
