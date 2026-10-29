@@ -10,5 +10,5 @@
 
 
 
-!\[Diagrama topológico](diagramatopologico.png)
+
 
